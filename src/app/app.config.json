@@ -1,0 +1,15 @@
+{
+	"appname": "Ideal Buyer",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "14FEC9A3-E201-433A-BA28-40787129301C",
+	"buyerid": "web_buyer",
+	"catalogid": "web_buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
